@@ -16,8 +16,13 @@
 - **Description**: Write a program that reads lines of text from standard input, replaces all occurrences of the first command-line argument with the second command-line argument, and prints the modified lines to standard output.
 - **Folder**: `Exercise-3`
 
+## Authors
 
-References:
-- https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
+https://github.com/naveenpb98
+
+## Acknowledgements:
+
+Inspiration, code snippets, etc
+- [Go class](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
 
 Happy learning and coding!
